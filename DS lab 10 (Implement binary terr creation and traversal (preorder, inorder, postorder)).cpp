@@ -85,6 +85,16 @@ int main()
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
+output :-
+     Preorder Traversal:
+1 2 4 5 3
+
+Inorder Traversal:
+4 2 5 1 3
+
+Postorder Traversal:
+4 5 2 3 1
+
 
 // Tips for Getting Started: 
 //   1. Use the Solution Explorer window to add/manage files
